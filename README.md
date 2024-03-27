@@ -7,6 +7,6 @@ I wrote Hackerrank SQl  Basic and intermediate [test](https://www.hackerrank.com
 
 Here are My both Cercificates [Basic](https://www.hackerrank.com/certificates/d84519e3f5fe) and [intermediate](https://www.hackerrank.com/certificates/1a2b20bbd687)
 On the next files i will post only 3 question out of 4
--,*, Country Code
--, *Stock code,
--, *Student Advisor,
+- Country Code
+* Stock code
++ Student Advisor
