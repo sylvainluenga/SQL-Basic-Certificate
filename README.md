@@ -1,7 +1,7 @@
 # SQL-Basic-Certificate
 SQL (Basic) It includes simple queries, relationships, and aggregators.
 
-##Hackerrank SQL (Intermediate) Skills Certification Test Solution
+## Hackerrank SQL (Intermediate) Skills Certification Test Solution
 
 I wrote Hackerrank SQl  Basic and intermediate on the same day 
 
